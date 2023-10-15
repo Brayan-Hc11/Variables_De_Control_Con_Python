@@ -88,14 +88,12 @@ fuentes de información para la construcción de conocimiento:
 ***
 # 2.Resultados de aprendizaje
 
-|__220501096 02__ | FORMULAR INSTRUCCIONES DE ENTRADA Y SALIDA DE DATOS E INSTRUCCIONES DE PROCESO SECUENCIAL APLICANDO ESTÁNDARES DE CODIFICACIÓN EN PYTHON.|
-|-----------------|------------------------------------------------------------------------------------------------------------------------------------------|
-|__220501096 03__ |	UTILIZAR ESTRUCTURAS DE CONTROL CONDICIONALES EN PYTHON DE ACUERDO CON LOS REQUERIMIENTOS TÉCNICOS.                                      |
-|-----------------|------------------------------------------------------------------------------------------------------------------------------------------|
-|__220501096 04__ |	USAR ESTRUCTURAS DE CONTROL ITERATIVAS EN PYTHON TENIENDO EN CUENTA LOS CICLOS REQUERIDOS POR EL USUARIO.                                |
-|-----------------|------------------------------------------------------------------------------------------------------------------------------------------|
-|__220501096 01__ | DEFINIR LAS VARIABLES A UTILIZAR DE ACUERDO CON EL TIPO DE DATO QUE DEBEN.                                                               |
-|-----------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| N°               |Reusltado                                                                                                                                |
+|------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| __220501096 02__ |FORMULAR INSTRUCCIONES DE ENTRADA Y SALIDA DE DATOS E INSTRUCCIONES DE PROCESO SECUENCIAL APLICANDO ESTÁNDARES DE CODIFICACIÓN EN PYTHON.|
+| __220501096 03__ |UTILIZAR ESTRUCTURAS DE CONTROL CONDICIONALES EN PYTHON DE ACUERDO CON LOS REQUERIMIENTOS TÉCNICOS.                                      |
+| __220501096 04__ |USAR ESTRUCTURAS DE CONTROL ITERATIVAS EN PYTHON TENIENDO EN CUENTA LOS CICLOS REQUERIDOS POR EL USUARIO.                                |
+| __220501096 01__ |DEFINIR LAS VARIABLES A UTILIZAR DE ACUERDO CON EL TIPO DE DATO QUE DEBEN.                                                               |
 
 
 
